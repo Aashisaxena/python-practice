@@ -1,8 +1,6 @@
 # program to print the given digit in words 
 def printValue(digit):
  
-    # Switch block to check for each digit c
- 
     # For digit 0
     if digit == '0':
         print("Zero ", end = " ")
